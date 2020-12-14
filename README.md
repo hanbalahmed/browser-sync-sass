@@ -2,7 +2,12 @@
 
 ### to start follow the instructions below
 
-- run
+- first run
+```js
+ npm install
+```
+
+- then run
 
 ```js
  gulp style
